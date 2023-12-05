@@ -12,5 +12,9 @@ Get data from the internet
 ![2](https://github.com/buidangkhoa252001/Lab7_MOBILE/assets/69308123/e4b6b85f-8c6a-4c28-8230-fea492d98d45)
 Introduction to Coroutines in Android Studio
 ![3](https://github.com/buidangkhoa252001/Lab7_MOBILE/assets/69308123/38a0d6f5-e04c-4ac4-8f2b-8e41c8f462e5)
+Load and display images from the internet
+![4](https://github.com/buidangkhoa252001/Lab7_MOBILE/assets/69308123/a4aa39a5-4c68-48e7-b627-ed4c9777fa12)
 
+Practice Build amphibians app
 
+![5](https://github.com/buidangkhoa252001/Lab7_MOBILE/assets/69308123/e002d082-57ed-4eb5-96fd-10e2de4f143b)
